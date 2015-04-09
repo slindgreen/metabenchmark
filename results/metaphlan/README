@@ -1,0 +1,15 @@
+for file in *out
+do
+base=`basename $file .out`
+grep "p__" $file | sed -e 's/k__[a-zA-Z]*|*//' -e 's/p__//' | grep -v "|" > $base.phylumproportion
+done
+
+sed -i 's/Ascomycota/Eukaryota/' *tion
+sed -i 's/Deinococcus_Thermus/X_Other/' *tion
+sed -i 's/Viruses_noname/X_Other/' *tion
+sed -i 's/Spirochaetes/W_Spirochaetes/' *tion
+
+for file in *tion
+do sort -k1,1 $file | awk '{array[$1]+=$2} END { for (i in array) {print i"\t" array[i]/100}}'| sort -k1,1 > temp
+mv temp $file
+done

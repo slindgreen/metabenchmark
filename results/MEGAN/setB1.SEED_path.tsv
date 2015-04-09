@@ -1,0 +1,91 @@
+"SEED;Carbohydrates;Organic acids;"	 10891
+"SEED;Carbohydrates;Monosaccharides;"	 206855
+"SEED;Carbohydrates;Sugar alcohols;"	 364537
+"SEED;Carbohydrates;Di- and oligosaccharides;"	 3
+"SEED;Carbohydrates;Central carbohydrate metabolism;"	 74535
+"SEED;Carbohydrates;One-carbon Metabolism;"	 104902
+"SEED;Carbohydrates;CO2 fixation;"	 29542
+"SEED;Carbohydrates;Fermentation;"	 33392
+"SEED;Respiration;Electron donating reactions;"	 65648
+"SEED;Respiration;Reductive_Dechlorination;"	 87746
+"SEED;Respiration;Electron accepting reactions;"	 1955
+"SEED;Nucleosides and Nucleotides;Purines;"	 53284
+"SEED;Nucleosides and Nucleotides;Pyrimidines;"	 2
+"SEED;Stress Response;Oxidative stress;"	 35437
+"SEED;Stress Response;Osmotic stress;"	 9642
+"SEED;Stress Response;Universal_stress_protein_family;"	 5619
+"SEED;Stress Response;Acid stress;"	 149
+"SEED;Protein Metabolism;Protein degradation;"	 3768
+"SEED;Protein Metabolism;Protein biosynthesis;"	 521643
+"SEED;Protein Metabolism;Protein processing and modification;"	 287
+"SEED;Protein Metabolism;Secretion;"	 3557
+"SEED;Regulation and Cell signaling;cAMP_signaling_in_bacteria;"	 1373
+"SEED;Regulation and Cell signaling;Quorum sensing and biofilm formation;"	 11026
+"SEED;Regulation and Cell signaling;Regulation of virulence;"	 7257
+"SEED;Cell Wall and Capsule;Capsular and extracellular polysacchrides;"	 154165
+"SEED;Cell Wall and Capsule;Gram-Positive cell wall components;"	 26615
+"SEED;Cell Wall and Capsule;UDP-N-acetylmuramate_from_Fructose-6-phosphate_Biosynthesis;"	 1149
+"SEED;Cell Wall and Capsule;Cell wall of Mycobacteria;"	 21440
+"SEED;Cell Wall and Capsule;Peptidoglycan_Biosynthesis;"	 24590
+"SEED;Photosynthesis;Light-harvesting complexes;"	 11253
+"SEED;RNA Metabolism;RNA processing and modification;"	 20027
+"SEED;RNA Metabolism;Transcription;"	 45912
+"SEED;Metabolism of Aromatic Compounds;Peripheral pathways for catabolism of aromatic compounds;"	 163838
+"SEED;Metabolism of Aromatic Compounds;Aromatic_Amin_Catabolism;"	 52258
+"SEED;Metabolism of Aromatic Compounds;Metabolism of central aromatic intermediates;"	 16261
+"SEED;Clustering-based subsystems;NusA-TFII_Cluster;"	 5422
+"SEED;Clustering-based subsystems;proteosome related;"	 3768
+"SEED;Clustering-based subsystems;Bacterial_Cell_Division;"	 12736
+"SEED;Clustering-based subsystems;LMPTP_YfkJ_cluster;"	 52
+"SEED;Clustering-based subsystems;Putative_hemin_transporter;"	 1374
+"SEED;Clustering-based subsystems;Lysine, threonine, methionine, and cysteine.1;"	 217
+"SEED;Phosphorus Metabolism;Alkylphosphonate_utilization;"	 793
+"SEED;Phages, Prophages, Transposable elements;Bacteriophage structural proteins;"	 26521
+"SEED;Secondary Metabolism;Biosynthesis of phenylpropanoids;"	 173769
+"SEED;Secondary Metabolism;Bacterial cytostatics, differentiation factors and antibiotics;"	 24162
+"SEED;Secondary Metabolism;Plant Hormones;"	 52335
+"SEED;Dormancy and Sporulation;Spore_germination;"	 425
+"SEED;Amino Acids and Derivatives;Aromatic amino acids and derivatives;"	 1658
+"SEED;Amino Acids and Derivatives;Branched-chain amino acids;"	 127831
+"SEED;Amino Acids and Derivatives;Alanine, serine, and glycine;"	 53867
+"SEED;Amino Acids and Derivatives;Lysine, threonine, methionine, and cysteine;"	 241072
+"SEED;Amino Acids and Derivatives;Arginine; urea cycle, polyamines;"	 138150
+"SEED;Amino Acids and Derivatives;Glutamine, glutamate, aspartate, asparagine; ammonia assimilation;"	 9877
+"SEED;Amino Acids and Derivatives;Proline and 4-hydroxyproline;"	 14258
+"SEED;Iron acquisition and metabolism;Campylobacter_Iron_Metabolism;"	 4633
+"SEED;Iron acquisition and metabolism;Hemin_transport_system;"	 1910
+"SEED;Iron acquisition and metabolism;Heme,_hemin_uptake_and_utilization_systems_in_GramPositives;"	 57459
+"SEED;Phages, Prophages, Transposable elements, Plasmids;Pathogenicity islands;"	 290906
+"SEED;Phages, Prophages, Transposable elements, Plasmids;Transposable elements;"	 5619
+"SEED;Cell Division and Cell Cycle;Macromolecular_synthesis_operon;"	 11
+"SEED;Cell Division and Cell Cycle;Bacterial_Cytoskeleton;"	 12736
+"SEED;Cell Division and Cell Cycle;Heterocyst_formation_in_cyanobacteria;"	 2379
+"SEED;Membrane Transport;Transport_of_Nickel_and_Cobalt;"	 5015
+"SEED;Membrane Transport;ECF_class_transporters;"	 1697
+"SEED;Membrane Transport;Protein and nucleoprotein secretion system, Type IV;"	 478502
+"SEED;Membrane Transport;Protein secretion system, Type VIII (Extracellular nucleation/precipitation pathway, ENP);"	 19122
+"SEED;Membrane Transport;Ton_and_Tol_transport_systems;"	 35264
+"SEED;Nitrogen Metabolism;Ammonia_assimilation;"	 66653
+"SEED;Nitrogen Metabolism;Nitrosative_stress;"	 15217
+"SEED;Nitrogen Metabolism;Denitrification;"	 14
+"SEED;Sulfur Metabolism;Sulfate_reduction-associated_complexes;"	 3867
+"SEED;DNA Metabolism;DNA repair;"	 8060
+"SEED;DNA Metabolism;DNA replication;"	 5688
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Tetrapyrroles;"	 35951
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Quinone cofactors;"	 3120
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Folate and pterines;"	 207854
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Lipoic acid;"	 2454
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Riboflavin, FMN, FAD;"	 18190
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Biotin;"	 101224
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Polyhydroxybutyrate_metabolism;"	 101224
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Isoprenoids;"	 8044
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Fatty acids;"	 123222
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Phospholipids;"	 51190
+"SEED;Virulence, Disease and Defense;Resistance to antibiotics and toxic compounds;"	 35864
+"SEED;Virulence, Disease and Defense;Adhesion;"	 757353
+"SEED;Virulence, Disease and Defense;Streptococcus_pyogenes_Virulome;"	 27
+"SEED;Virulence, Disease and Defense;Detection;"	 812
+"SEED;Motility and Chemotaxis;Flagellar motility in Prokaryota;"	 13465
+"SEED;Motility and Chemotaxis;Social motility and nonflagellar swimming in bacteria;"	 533
+"SEED;Motility and Chemotaxis;Bacterial_Chemotaxis;"	 8324
+"SEED;Virulence;Type III, Type IV, Type VI, ESAT secretion systems;"	 119339

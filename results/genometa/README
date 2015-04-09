@@ -1,0 +1,16 @@
+cat genera.list | while read genus
+do 
+phylum=`awk -vgenus=$genus '($2==genus || $3==genus || $4==genus || $5==genus || $6==genus || $7==genus || $8==genus){print $2;}' OC.sorted_uniq.out | head -n1`
+if [ "$phylum" == "" ]
+then phylum="Other"
+fi
+echo -e "$genus\t$phylum"
+done > genus_phylum.list
+
+---
+
+for file in *dat
+do
+base=`basename $file .dat`
+join genus_phylum.list $file | tr ' ' '\t' | awk '$3!=0 {print $2"\t"$3;}' | awk '{array[$1]+=$2} END { for (i in array) {print i"\t" array[i]}}'|sort -k1,1 > $base.phylumdistribution
+done

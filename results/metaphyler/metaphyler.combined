@@ -1,0 +1,26 @@
+Name	% Abundance	# reads	Name	% Abundance	# reads	Name	% Abundance	# reads	Name	% Abundance	# reads	Name	% Abundance	# reads	Name	% Abundance	# reads
+Acidobacteria	5.67	7534	Acidobacteria	5.63	7404	Acidobacteria	5.65	7661	Acidobacteria	8.69	14431	Acidobacteria	8.50	10338	Acidobacteria	8.68	10399
+Actinobacteria	15.37	20411	Actinobacteria	15.23	20029	Actinobacteria	15.23	20641	Actinobacteria	8.53	14166	Actinobacteria	8.72	10604	Actinobacteria	8.53	10215
+Aquificae	0.00	3	Aquificae	0.00	4	Aquificae	0.00	2	Aquificae	0.00	5	Aquificae	0.00	2	Aquificae	0.00	1
+Bacteroidetes	4.36	5788	Bacteroidetes	4.30	5663	Bacteroidetes	4.35	5899	Bacteroidetes	4.86	8076	Bacteroidetes	4.89	5950	Bacteroidetes	4.87	5834
+Chlamydiae	0.01	11	Chlamydiae	0.01	10	Chlamydiae	0.00	5	Chlamydiae	0.01	11	Chlamydiae	0.00	6	Chlamydiae	0.01	6
+Chlorobi	10.05	13341	Chlorobi	9.92	13044	Chlorobi	10.10	13686	Chlorobi	2.09	3463	Chlorobi	2.14	2599	Chlorobi	2.10	2516
+Chloroflexi	8.53	11325	Chloroflexi	8.71	11456	Chloroflexi	8.58	11635	Chloroflexi	6.96	11551	Chloroflexi	6.99	8504	Chloroflexi	6.95	8327
+Crenarchaeota	1.65	2192	Crenarchaeota	1.64	2163	Crenarchaeota	1.62	2198	Crenarchaeota	5.02	8343	Crenarchaeota	5.05	6136	Crenarchaeota	5.14	6157
+Cyanobacteria	8.35	11093	Cyanobacteria	8.56	11254	Cyanobacteria	8.45	11460	Cyanobacteria	2.93	4857	Cyanobacteria	2.85	3461	Cyanobacteria	2.91	3482
+Deinococcus-Thermus	0.01	14	Deinococcus-Thermus	0.01	18	Deinococcus-Thermus	0.01	13	Deinococcus-Thermus	0.01	13	Deinococcus-Thermus	0.00	6	Deinococcus-Thermus	0.01	6
+Elusimicrobia	0.26	350	Dictyoglomi	0.00	1	Elusimicrobia	0.23	318	Elusimicrobia	0.26	438	Elusimicrobia	0.22	273	Elusimicrobia	0.24	288
+Euryarchaeota	0.78	1035	Elusimicrobia	0.27	360	Euryarchaeota	0.82	1113	Euryarchaeota	6.32	10491	Euryarchaeota	6.33	7693	Euryarchaeota	6.18	7394
+Firmicutes	3.93	5213	Euryarchaeota	0.81	1059	Firmicutes	3.92	5319	Firmicutes	9.06	15036	Firmicutes	9.00	10939	Firmicutes	8.93	10698
+Fusobacteria	0.00	3	Firmicutes	3.92	5154	Fusobacteria	0.00	2	Fusobacteria	0.01	15	Fusobacteria	0.00	5	Fusobacteria	0.01	7
+Gemmatimonadetes	0.23	307	Fusobacteria	0.00	1	Gemmatimonadetes	0.23	316	Gemmatimonadetes	0.21	350	Gemmatimonadetes	0.25	303	Gemmatimonadetes	0.21	249
+Nitrospirae	0.08	103	Gemmatimonadetes	0.21	275	Nitrospirae	0.10	141	Nitrospirae	0.52	861	Nitrospirae	0.53	642	Nitrospirae	0.48	575
+Planctomycetes	2.42	3208	Nitrospirae	0.09	121	Planctomycetes	2.40	3252	Planctomycetes	2.16	3592	Planctomycetes	2.19	2664	Planctomycetes	2.17	2599
+Proteobacteria	29.99	39834	Planctomycetes	2.46	3230	Proteobacteria	29.92	40559	Proteobacteria	33.87	56230	Proteobacteria	33.82	41133	Proteobacteria	33.99	40693
+Spirochaetes	3.80	5051	Proteobacteria	29.84	39257	Spirochaetes	3.87	5247	Spirochaetes	3.76	6238	Spirochaetes	3.82	4644	Spirochaetes	3.92	4688
+Synergistetes	0.00	5	Spirochaetes	3.75	4927	Synergistetes	0.00	2	Synergistetes	0.00	5	Synergistetes	0.00	1	Synergistetes	0.01	6
+Tenericutes	0.38	510	Synergistetes	0.00	5	Tenericutes	0.42	572	Tenericutes	0.39	649	Tenericutes	0.37	453	Tenericutes	0.39	472
+Thermotogae	0.00	1	Tenericutes	0.37	491	Thermotogae	0.00	4	Thermotogae	0.00	8	Thermotogae	0.00	3	Thermotogae	0.01	6
+Verrucomicrobia	4.10	5442	Thermotogae	0.00	3	Verrucomicrobia	4.05	5490	Verrucomicrobia	4.32	7170	Verrucomicrobia	4.30	5228	Verrucomicrobia	4.26	5097
+Other	0.02	30	Verrucomicrobia	4.25	5592	Other	0.02	25	Other	0.02	40	Other	0.02	21	Other	0.02	21
+	Other	0.02	25				

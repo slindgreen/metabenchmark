@@ -1,0 +1,28 @@
+"Carbohydrates"	 607230
+"Respiration"	 111706
+"Nucleosides and Nucleotides"	 38204
+"Stress Response"	 35564
+"Protein Metabolism"	 381961
+"Regulation and Cell signaling"	 14201
+"Cell Wall and Capsule"	 178107
+"Photosynthesis"	 8113
+"RNA Metabolism"	 47697
+"Metabolism of Aromatic Compounds"	 155692
+"Clustering-based subsystems"	 17282
+"Phosphorus Metabolism"	 566
+"Phages, Prophages, Transposable elements"	 21246
+"Secondary Metabolism"	 180284
+"Dormancy and Sporulation"	 286
+"Amino Acids and Derivatives"	 382062
+"Iron acquisition and metabolism"	 44473
+"Phages, Prophages, Transposable elements, Plasmids"	 214440
+"Cell Division and Cell Cycle"	 11139
+"Membrane Transport"	 388691
+"Nitrogen Metabolism"	 59509
+"Sulfur Metabolism"	 2910
+"DNA Metabolism"	 11106
+"Cofactors, Vitamins, Prosthetic Groups, Pigments"	 245025
+"Fatty Acids, Lipids, and Isoprenoids"	 186093
+"Virulence, Disease and Defense"	 574985
+"Motility and Chemotaxis"	 15649
+"Virulence"	 85199

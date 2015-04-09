@@ -1,0 +1,224 @@
+"SEED;Carbohydrates;Organic acids;"	 69
+"SEED;Carbohydrates;Monosaccharides;"	 385
+"SEED;Carbohydrates;Sugar alcohols;"	 165
+"SEED;Carbohydrates;Di- and oligosaccharides;"	 150
+"SEED;Carbohydrates;Aminosugars;"	 60
+"SEED;Carbohydrates;Central carbohydrate metabolism;"	 222
+"SEED;Carbohydrates;One-carbon Metabolism;"	 141
+"SEED;Carbohydrates;Polysaccharides;"	 15
+"SEED;Carbohydrates;CO2 fixation;"	 86
+"SEED;Carbohydrates;Fermentation;"	 52
+"SEED;Carbohydrates;Glycoside hydrolases;"	 6
+"SEED;Carbohydrates;Lacto-N-Biose_I_and_Galacto-N-Biose_Metabolic_Pathway;"	 15
+"SEED;Carbohydrates;Unknown_sugar_utilization_(cluster_yphABCDEFG);"	 7
+"SEED;Respiration;Electron donating reactions;"	 331
+"SEED;Respiration;Biogenesis_of_c-type_cytochromes;"	 36
+"SEED;Respiration;Reductive_Dechlorination;"	 6
+"SEED;Respiration;Formate_hydrogenase;"	 51
+"SEED;Respiration;Cytochrome_B6-F_complex;"	 15
+"SEED;Respiration;Carbon_monoxide_induced_hydrogenase;"	 40
+"SEED;Respiration;Electron accepting reactions;"	 153
+"SEED;Respiration;ATP synthases;"	 21
+"SEED;Respiration;Carbon_monoxide_dehydrogenase_maturation_factors;"	 5
+"SEED;Respiration;Sodium Ion-Coupled Energetics;"	 12
+"SEED;Respiration;Soluble_cytochromes_and_functionally_related_electron_carriers;"	 40
+"SEED;Respiration;Biogenesis_of_cytochrome_c_oxidases;"	 10
+"SEED;Respiration;Biogenesis_of_cbb3-type_cytochrome_c_oxidases;"	 5
+"SEED;Respiration;Flavocytochrome_C;"	 2
+"SEED;Nucleosides and Nucleotides;Purines;"	 74
+"SEED;Nucleosides and Nucleotides;Detoxification;"	 26
+"SEED;Nucleosides and Nucleotides;Hydantoin_metabolism;"	 16
+"SEED;Nucleosides and Nucleotides;Adenosyl_nucleosidases;"	 9
+"SEED;Nucleosides and Nucleotides;Ribonucleotide_reduction;"	 11
+"SEED;Nucleosides and Nucleotides;Pyrimidines;"	 36
+"SEED;Nucleosides and Nucleotides;AMP_to_3-phosphoglycerate;"	 4
+"SEED;Stress Response;Oxidative stress;"	 102
+"SEED;Stress Response;Flavohaemoglobin;"	 5
+"SEED;Stress Response;Detoxification.1;"	 6
+"SEED;Stress Response;Osmotic stress;"	 45
+"SEED;Stress Response;Universal_stress_protein_family;"	 21
+"SEED;Stress Response;SigmaB_stress_responce_regulation;"	 8
+"SEED;Stress Response;Heat shock;"	 22
+"SEED;Stress Response;Hfl_operon;"	 7
+"SEED;Stress Response;Sugar-phosphate_stress_regulation;"	 1
+"SEED;Stress Response;Acid stress;"	 7
+"SEED;Stress Response;Dimethylarginine_metabolism;"	 6
+"SEED;Stress Response;Bacterial_hemoglobins;"	 9
+"SEED;Protein Metabolism;Protein degradation;"	 66
+"SEED;Protein Metabolism;Protein biosynthesis;"	 218
+"SEED;Protein Metabolism;Protein folding;"	 35
+"SEED;Protein Metabolism;Protein processing and modification;"	 24
+"SEED;Protein Metabolism;Selenoproteins;"	 15
+"SEED;Protein Metabolism;Secretion;"	 15
+"SEED;Regulation and Cell signaling;cAMP_signaling_in_bacteria;"	 29
+"SEED;Regulation and Cell signaling;Programmed Cell Death and Toxin-antitoxin Systems;"	 31
+"SEED;Regulation and Cell signaling;Quorum sensing and biofilm formation;"	 38
+"SEED;Regulation and Cell signaling;Proteolytic pathway;"	 4
+"SEED;Regulation and Cell signaling;CytR_regulation;"	 2
+"SEED;Regulation and Cell signaling;Stringent_Response,_(p)ppGpp_metabolism;"	 4
+"SEED;Regulation and Cell signaling;Oxygen_and_light_sensor_PpaA-PpsR;"	 6
+"SEED;Regulation and Cell signaling;Pseudomonas_quinolone_signal_PQS;"	 19
+"SEED;Regulation and Cell signaling;DNA-binding_regulatory_proteins,_strays;"	 36
+"SEED;Regulation and Cell signaling;Regulation of virulence;"	 9
+"SEED;Regulation and Cell signaling;Two-component_regulatory_systems_in_Campylobacter;"	 14
+"SEED;Regulation and Cell signaling;Sex_pheromones_in_Enterococcus_faecalis_and_other_Firmicutes;"	 10
+"SEED;Regulation and Cell signaling;Orphan_regulatory_proteins;"	 37
+"SEED;Cell Wall and Capsule;Capsular and extracellular polysacchrides;"	 205
+"SEED;Cell Wall and Capsule;Gram-Negative cell wall components;"	 80
+"SEED;Cell Wall and Capsule;YjeE;"	 6
+"SEED;Cell Wall and Capsule;Gram-Positive cell wall components;"	 53
+"SEED;Cell Wall and Capsule;UDP-N-acetylmuramate_from_Fructose-6-phosphate_Biosynthesis;"	 13
+"SEED;Cell Wall and Capsule;Cell wall of Mycobacteria;"	 55
+"SEED;Cell Wall and Capsule;Peptidoglycan_Biosynthesis;"	 35
+"SEED;Miscellaneous;Muconate_lactonizing_enzyme_family;"	 6
+"SEED;Miscellaneous;Plant-Prokaryote DOE project;"	 4
+"SEED;Miscellaneous;Archease;"	 1
+"SEED;Miscellaneous;YaaA;"	 2
+"SEED;Miscellaneous;Luciferases;"	 7
+"SEED;Miscellaneous;ZZ_gjo_need_homes;"	 40
+"SEED;Miscellaneous;YbbK;"	 7
+"SEED;Photosynthesis;Electron transport and photophosphorylation;"	 61
+"SEED;Photosynthesis;Light-harvesting complexes;"	 65
+"SEED;RNA Metabolism;RNA processing and modification;"	 126
+"SEED;RNA Metabolism;Group_II_intron-associated_genes;"	 1
+"SEED;RNA Metabolism;Transcription;"	 94
+"SEED;Metabolism of Aromatic Compounds;Peripheral pathways for catabolism of aromatic compounds;"	 111
+"SEED;Metabolism of Aromatic Compounds;carbazol_degradation_cluster;"	 3
+"SEED;Metabolism of Aromatic Compounds;Aromatic_Amin_Catabolism;"	 6
+"SEED;Metabolism of Aromatic Compounds;Metabolism of central aromatic intermediates;"	 83
+"SEED;Metabolism of Aromatic Compounds;Benzoate_transport_and_degradation_cluster;"	 30
+"SEED;Metabolism of Aromatic Compounds;Anaerobic degradation of aromatic compounds;"	 52
+"SEED;Metabolism of Aromatic Compounds;p-cymene_degradation;"	 21
+"SEED;Metabolism of Aromatic Compounds;Cresol_degradation;"	 3
+"SEED;Metabolism of Aromatic Compounds;Gentisare_degradation;"	 5
+"SEED;Clustering-based subsystems;Bacterial_RNA-metabolizing_Zn-dependent_hydrolases;"	 17
+"SEED;Clustering-based subsystems;CBSS-261594.1.peg.2640;"	 10
+"SEED;Clustering-based subsystems;PA0057_cluster;"	 3
+"SEED;Clustering-based subsystems;CBSS-214092.1.peg.3450;"	 6
+"SEED;Clustering-based subsystems;Type III secretion system related;"	 75
+"SEED;Clustering-based subsystems;Clustering-based subsystems.1;"	 6
+"SEED;Clustering-based subsystems;Spore_Coat;"	 24
+"SEED;Clustering-based subsystems;NusA-TFII_Cluster;"	 8
+"SEED;Clustering-based subsystems;LMPTP_YwlE_cluster;"	 7
+"SEED;Clustering-based subsystems;Catabolism of an unknown compound;"	 18
+"SEED;Clustering-based subsystems;proteosome related;"	 13
+"SEED;Clustering-based subsystems;Bacterial_Cell_Division;"	 29
+"SEED;Clustering-based subsystems;LMPTP_YfkJ_cluster;"	 5
+"SEED;Clustering-based subsystems;Putative_hemin_transporter;"	 9
+"SEED;Clustering-based subsystems;Lysine, threonine, methionine, and cysteine.1;"	 5
+"SEED;Clustering-based subsystems;CBSS-562.2.peg.5158_SK3_including;"	 7
+"SEED;Clustering-based subsystems;Conserved_gene_cluster_associated_with_Met-tRNA_formyltransferase;"	 28
+"SEED;Clustering-based subsystems;Type III secretion system, extended;"	 55
+"SEED;Clustering-based subsystems;Putative_sulfate_assimilation_cluster;"	 2
+"SEED;Phosphorus Metabolism;Phosphonate_metabolism;"	 9
+"SEED;Phosphorus Metabolism;Alkylphosphonate_utilization;"	 13
+"SEED;Phosphorus Metabolism;High_affinity_phosphate_transporter_and_control_of_PHO_regulon;"	 7
+"SEED;Phosphorus Metabolism;Phosphate_metabolism;"	 42
+"SEED;Phages, Prophages, Transposable elements;Bacteriophage structural proteins;"	 11
+"SEED;Secondary Metabolism;Biosynthesis of phenylpropanoids;"	 22
+"SEED;Secondary Metabolism;Bacterial cytostatics, differentiation factors and antibiotics;"	 18
+"SEED;Secondary Metabolism;Aromatic amino acids and derivatives.1;"	 15
+"SEED;Secondary Metabolism;Plant Octadecanoids;"	 1
+"SEED;Secondary Metabolism;Biologically active compounds in metazoan cell defence and differentiation;"	 3
+"SEED;Secondary Metabolism;Plant Alkaloids;"	 1
+"SEED;Secondary Metabolism;Plant Hormones;"	 8
+"SEED;Secondary Metabolism;Lipid-derived mediators;"	 11
+"SEED;Dormancy and Sporulation;Spore_germination;"	 51
+"SEED;Dormancy and Sporulation;Bacillus_biofilm_matrix_protein_component_TasA_and_homologs;"	 16
+"SEED;Dormancy and Sporulation;Sporulation_gene_orphans;"	 50
+"SEED;Dormancy and Sporulation;Sporulation_Cluster_III_A;"	 8
+"SEED;Amino Acids and Derivatives;Aromatic amino acids and derivatives;"	 84
+"SEED;Amino Acids and Derivatives;Branched-chain amino acids;"	 69
+"SEED;Amino Acids and Derivatives;L-2-amino-thiazoline-4-carboxylic_acid-Lcysteine_conversion;"	 3
+"SEED;Amino Acids and Derivatives;Histidine Metabolism;"	 35
+"SEED;Amino Acids and Derivatives;Alanine, serine, and glycine;"	 47
+"SEED;Amino Acids and Derivatives;Lysine, threonine, methionine, and cysteine;"	 141
+"SEED;Amino Acids and Derivatives;Arginine; urea cycle, polyamines;"	 122
+"SEED;Amino Acids and Derivatives;Glutamine, glutamate, aspartate, asparagine; ammonia assimilation;"	 28
+"SEED;Amino Acids and Derivatives;Proline and 4-hydroxyproline;"	 35
+"SEED;Iron acquisition and metabolism;Siderophores;"	 111
+"SEED;Iron acquisition and metabolism;Iron_acquisition_in_Vibrio;"	 75
+"SEED;Iron acquisition and metabolism;Campylobacter_Iron_Metabolism;"	 24
+"SEED;Iron acquisition and metabolism;Hemin_transport_system;"	 24
+"SEED;Iron acquisition and metabolism;Transport_of_Iron;"	 16
+"SEED;Iron acquisition and metabolism;Heme,_hemin_uptake_and_utilization_systems_in_GramPositives;"	 66
+"SEED;Phages, Prophages, Transposable elements, Plasmids;Pathogenicity islands;"	 37
+"SEED;Phages, Prophages, Transposable elements, Plasmids;Phages, Prophages;"	 25
+"SEED;Phages, Prophages, Transposable elements, Plasmids;Transposable elements;"	 29
+"SEED;Phages, Prophages, Transposable elements, Plasmids;Integrons;"	 11
+"SEED;Cell Division and Cell Cycle;YgjD_and_YeaZ;"	 3
+"SEED;Cell Division and Cell Cycle;Macromolecular_synthesis_operon;"	 5
+"SEED;Cell Division and Cell Cycle;Bacterial_Cytoskeleton;"	 33
+"SEED;Cell Division and Cell Cycle;Control_of_cell_elongation_-_division_cycle_in_Bacilli;"	 11
+"SEED;Cell Division and Cell Cycle;Two_cell_division_clusters_relating_to_chromosome_partitioning;"	 15
+"SEED;Cell Division and Cell Cycle;Heterocyst_formation_in_cyanobacteria;"	 8
+"SEED;Cell Division and Cell Cycle;Cyanobacterial_Circadian_Clock;"	 9
+"SEED;Cell Division and Cell Cycle;MukBEF_Chromosome_Condensation;"	 5
+"SEED;Membrane Transport;Protein translocation across cytoplasmic membrane;"	 62
+"SEED;Membrane Transport;Transport_of_Nickel_and_Cobalt;"	 28
+"SEED;Membrane Transport;ECF_class_transporters;"	 85
+"SEED;Membrane Transport;ABC transporters;"	 28
+"SEED;Membrane Transport;Protein and nucleoprotein secretion system, Type IV;"	 100
+"SEED;Membrane Transport;Protein secretion system, Type II;"	 21
+"SEED;Membrane Transport;Choline_Transport;"	 7
+"SEED;Membrane Transport;Transport_of_Molybdenum;"	 4
+"SEED;Membrane Transport;Uni- Sym- and Antiporters;"	 19
+"SEED;Membrane Transport;Protein secretion system, Type VIII (Extracellular nucleation/precipitation pathway, ENP);"	 7
+"SEED;Membrane Transport;Sugar Phosphotransferase Systems, PTS;"	 6
+"SEED;Membrane Transport;Transport_of_Zinc;"	 14
+"SEED;Membrane Transport;Protein secretion system, Type III;"	 19
+"SEED;Membrane Transport;Ton_and_Tol_transport_systems;"	 42
+"SEED;Membrane Transport;Transport_of_Manganese;"	 9
+"SEED;Nitrogen Metabolism;Nitrogen_fixation;"	 45
+"SEED;Nitrogen Metabolism;Nitric_oxide_synthase;"	 3
+"SEED;Nitrogen Metabolism;Ammonia_assimilation;"	 27
+"SEED;Nitrogen Metabolism;Amidase_clustered_with_urea_and_nitrile_hydratase_functions;"	 1
+"SEED;Nitrogen Metabolism;Nitrosative_stress;"	 12
+"SEED;Nitrogen Metabolism;Denitrification;"	 19
+"SEED;Nitrogen Metabolism;Nitrate_and_nitrite_ammonification;"	 48
+"SEED;Nitrogen Metabolism;Dissimilatory_nitrite_reductase;"	 13
+"SEED;Nitrogen Metabolism;Allantoin_Utilization;"	 11
+"SEED;Nitrogen Metabolism;Cyanate_hydrolysis;"	 7
+"SEED;Sulfur Metabolism;Organic sulfur assimilation;"	 30
+"SEED;Sulfur Metabolism;Sulfur_oxidation;"	 19
+"SEED;Sulfur Metabolism;Galactosylceramide_and_Sulfatide_metabolism;"	 14
+"SEED;Sulfur Metabolism;Sulfate_reduction-associated_complexes;"	 12
+"SEED;Sulfur Metabolism;Thioredoxin-disulfide_reductase;"	 8
+"SEED;DNA Metabolism;DNA repair;"	 105
+"SEED;DNA Metabolism;DNA_structural_proteins,_bacterial;"	 10
+"SEED;DNA Metabolism;DNA replication;"	 70
+"SEED;DNA Metabolism;CRISPs;"	 24
+"SEED;DNA Metabolism;DNA recombination;"	 3
+"SEED;DNA Metabolism;YcfH;"	 7
+"SEED;DNA Metabolism;Restriction-Modification_System;"	 7
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Tetrapyrroles;"	 221
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Quinone cofactors;"	 45
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Coenzyme A;"	 21
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Coenzyme B;"	 4
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Folate and pterines;"	 68
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Lipoic acid;"	 8
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Riboflavin, FMN, FAD;"	 24
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;NAD and NADP;"	 54
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Coenzyme F420;"	 7
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Pyridoxine;"	 13
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Biotin;"	 22
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Thiamin_biosynthesis;"	 43
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Polyhydroxybutyrate_metabolism;"	 22
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Isoprenoids;"	 72
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Fatty acids;"	 22
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Phospholipids;"	 27
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Triacylglycerols;"	 6
+"SEED;Virulence, Disease and Defense;Resistance to antibiotics and toxic compounds;"	 155
+"SEED;Virulence, Disease and Defense;Invasion and intracellular resistance;"	 68
+"SEED;Virulence, Disease and Defense;Toxins and superantigens;"	 20
+"SEED;Virulence, Disease and Defense;Bacteriocins, ribosomally synthesized antibacterial peptides;"	 7
+"SEED;Virulence, Disease and Defense;Adhesion;"	 31
+"SEED;Virulence, Disease and Defense;Streptococcus_pyogenes_Virulome;"	 29
+"SEED;Virulence, Disease and Defense;Detection;"	 6
+"SEED;Potassium metabolism;pH_adaptation_potassium_efflux_system;"	 11
+"SEED;Potassium metabolism;Potassium_homeostasis;"	 41
+"SEED;Potassium metabolism;Glutathione-regulated_potassium-efflux_system_and_associated_functions;"	 7
+"SEED;Motility and Chemotaxis;Flagellar motility in Prokaryota;"	 75
+"SEED;Motility and Chemotaxis;Social motility and nonflagellar swimming in bacteria;"	 8
+"SEED;Motility and Chemotaxis;Bacterial_Chemotaxis;"	 22
+"SEED;Virulence;Type III, Type IV, Type VI, ESAT secretion systems;"	 55

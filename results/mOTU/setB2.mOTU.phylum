@@ -1,0 +1,40 @@
+# MOCAT taxonomic abundance table (insert.mm.dist.among.unique.scaled) summarized at phylum level (fractions)
+# Created Tue Dec  9 15:08:23 NZDT 2014 by sli104 @ compute-0-5.local
+# /share/data2/people/sli104/projects/Benchmark/setB2/motus.pl setB2_1.fq.gz setB2_2.fq.gz
+# Original filename: /share/data2/people/sli104/projects/Benchmark/setB2/taxonomic.profiles/RefMG.v1.padded/reads.extracted.mOTU.v1.padded.solexaqa.solexaqa.allbest.l45.p97/0.taxonomic.profile.reads.extracted.mOTU.v1.padded.solexaqa.on.RefMG.v1.padded.solexaqa.allbest.l45.p97.insert.mm.dist.among.unique.scaled.phylum
+phylum	motus.processing.1
+-1	0.00118234417064534
+Acidobacteria	0.176767539580665
+Actinobacteria	0.0639686385408549
+Aquificae	0
+Bacteroidetes	0.0477753820675834
+Chlamydiae	0
+Chlorobi	0.0159957757758131
+Chloroflexi	0.0648205914550493
+Chrysiogenetes	0
+Crenarchaeota	0.0587530357551689
+Cyanobacteria	0.0190343879228833
+Deferribacteres	0
+Deinococcus-Thermus	0
+Dictyoglomi	0
+Elusimicrobia	0.0155949991610641
+Euryarchaeota	0.0558039912507725
+Fibrobacteres	0
+Firmicutes	0.0735987914161925
+Fusobacteria	0
+Gemmatimonadetes	0.0103286807710926
+Korarchaeota	0
+Lentisphaerae	0
+Nanoarchaeota	0
+Nitrospirae	0.0237013592586099
+Planctomycetes	0.0344966694521669
+Proteobacteria	0.253290623787858
+Spirochaetes	0.0266214446801939
+Synergistetes	0
+Tenericutes	0
+Thaumarchaeota	0
+Thermodesulfobacteria	0
+Thermotogae	0
+Verrucomicrobia	0.0582657449533856
+undef	0
+Mapped	43045
